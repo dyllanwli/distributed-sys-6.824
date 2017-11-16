@@ -11,3 +11,4 @@ A distributed systems build from scratch with MIT 6.824 course
 
 I am gonna follow this course to learn the distributed system and translate the course to chinese.
 
+I find that some super nice people have just finished the translation of mit course. So I decided to end the translation and focus on the code.
