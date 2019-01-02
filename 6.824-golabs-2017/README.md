@@ -1,5 +1,9 @@
 ### 序言： 了解source
 
+很久没更新了
+
+TODO: add all 4 labs
+
 mapreduce包提供一个简单的Map / Reduce库。应用程序通常应该调用Distributed()(master.go)。开始工作，但也可以Sequential()(master.go)。执行用于调试的顺序执行。
 
 该代码执行以下工作:
