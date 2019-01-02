@@ -1,7 +1,7 @@
 # distributed-sys-6.824
 A distributed systems build from scratch/ MIT 6.824 course
 
-
+2019 再次更新，目前追到lab3
 
 #### what is 6.824 about?
 
